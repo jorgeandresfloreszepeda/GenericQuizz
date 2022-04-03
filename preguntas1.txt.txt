@@ -1,0 +1,937 @@
+NEW QUESTION 1
+
+Which of the following statements describes the
+difference between an Availability Zone and a Local Zone?
+A. An Availability Zone is an isolated location within an
+AWS region while a Local Zone is an extension of an AWS
+Region in geographic proximity to your users
+B. An Availability Zone is an extension of an AWS Region in
+geographic proximity to your users while a Local Zone is an
+isolated location within an AWS region
+C. An Availability Zone is an extension of an AWS Region in
+geographic proximity to your users while a Local Zone enables
+developers to build applications that deliver ultra-low latencies
+to mobile devices and end-users
+D. An Availability Zone is a fully managed service that
+extends AWS infrastructure, services, APIs, and tools to
+customer premises while a Local Zone is an extension of an
+AWS Region in geographic proximity to your users
+Answer: A
+Explanation:
+
+NEW QUESTION 2
+
+You are working on a global scale application that
+recently met underperformance issues. You have been tasked
+to implement a solution to speeds up the distribution of your
+static and dynamic web content. Which of the following AWS
+service will you implement to fix the issue?
+A. Amazon VPC is incorrect
+B. Amazon Route 53
+C. Amazon CloudFront
+D. Amazon API Gateway
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 3. You need to explore all the available AWS services
+via an intuitive web-based user interface. Which of the
+following options will you choose in order to explore all the AWS
+services and get helpful tips for each one?
+A. AWS Command Line Interface
+B. AWS Software Development Kit
+C. AWS Web-Based Interface
+D. AWS Management Console
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 4. Which of the following services are defined as
+global services in AWS? (Choose all that apply)
+A. AWS STS
+B. Amazon S3 Glacier
+C. Amazon CloudFront
+D. AWS Identity and Access Management (IAM)
+E. Amazon VPC
+Answer: ACD
+EXPLANATION:
+
+NEW QUESTION 5. Moving to the cloud lets you respond to market
+needs and opportunities immediately.
+A. TRUE
+B. FALSE
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 6. Which of the following resources can be used
+specifically to Availability Zone in which they reside? (Choose
+all that apply)
+A. Elastic IP addresses
+B. EBS volumes
+C. Amazon EC2 resource identifiers
+D. Instances
+E. Key pairs
+Answer: BD
+EXPLANATION:
+
+NEW QUESTION 7. Which AWS service should you use if you need to
+set up and operate a highly scalable MongoDB database?
+A. Amazon DynamoDB
+B. Amazon Aurora
+C. Amazon Redshift
+D. Amazon DocumentDB
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 8. The AWS Cloud infrastructure is built around AWS
+Regions and Availability Zones.
+A. TRUE
+B. FALSE
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 9. Which of the following services enables
+customers to build and run applications on-premises using the
+same programming interfaces as in AWS Regions?
+A. AWS Lambda
+B. AWS Batch
+C. AWS Outposts
+D. Amazon EC2
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 10. Given the following advantages of Cloud
+Computing, which one solves the following problem?
+“When you make a capacity decision prior to deploying an
+application, you often end up either sitting on expensive idle
+resources or dealing with limited capacity.”
+50
+A. Increase speed and agility
+B. Stop guessing capacity
+C. Stop spending money running and maintaining data
+centers
+D. Go global in minutes
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 11. Which of the following design patterns and
+architectural options takes place through an increase in the
+specifications of an individual resource, such as upgrading a
+server with a larger hard drive or a faster CPU?
+A. Disposable resources
+B. Automation
+C. Loose Coupling
+D. Scalability
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 12. You are thinking to migrate the entire on-premise
+infrastructure to AWS. Which of the following is a benefit of
+using AWS over traditional data centers or virtualized data
+centers?
+A. The benefit of using AWS is a lower variable cost and
+lower upfront cost
+B. The benefit of using AWS is a lower variable cost and
+higher upfront cost
+C. The benefit of using AWS is a higher variable cost and
+lower upfront cost
+D. The benefit of using AWS is a higher variable cost and
+higher upfront cost
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 13. Given the following Cloud Architecture Principles,
+which one is followed if you automate the deployment process
+and streamline the configuration to ensure that the system can
+scale without any human intervention?
+A. Design for failure
+B. Decouple your components
+C. Implement elasticity
+D. Think parallel
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 14. According to Amazon Inc., there are six
+advantages of cloud computing. Which of the following is not
+considered an advantage?
+A. Increase speed and agility
+B. Stop spending money running and maintaining data
+centers
+C. Go global in minutes
+D. Increase infrastructure capacity needs
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 15. You have been tasked to implement a NoSQL
+database service that provides fast and predictable
+performance with seamless scalability for your new APP. Which
+of the following database services will you implement in order
+to meet the requirement?
+A. Amazon Redshift
+B. Amazon Aurora
+C. Amazon DynamoDB
+D. Amazon Neptune
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 16. Amazon _______________ enables you to launch
+AWS resources into a virtual network that you’ve defined.
+A. CloudFront
+B. EC2
+C. VPC
+D. S3
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 17. Which of the following is considered a benefit of
+migrating your on-premises infrastructure data centers to AWS
+Cloud? (Choose all that apply.)
+A. You spend more money on the AWS Cloud but you have
+a more scalable infrastructure
+B. Deploying your application on AWS is not as easy as it is
+on your infrastructure, but the application on AWS is highly
+available
+C. On AWS you can pay only when you consume
+67
+computing resources
+D. Eliminate guessing on your infrastructure capacity
+needs
+E. AWS lets you focus on your own customers, rather
+than on the heavy lifting of racking, stacking, and powering
+servers
+Answer: CDE
+EXPLANATION:
+
+NEW QUESTION 18. What service provides an extremely low-cost
+storage service that provides secure, durable, and flexible
+storage for data backup and archival?
+A. Amazon S3 Glacier
+B. Amazon S3
+C. Amazon DocumentDB
+D. Amazon Redshift
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 19. Which of the following statements is correct
+regarding Availability Zones?
+A. Availability Zones provide you the ability to place
+resources, such as compute and storage, in multiple locations
+closer to your end-users
+B. Availability Zones are multiple, isolated locations
+within each Region
+C. Availability Zones brings native AWS services,
+infrastructure, and operating models to virtually any data
+center, co-location space, or on-premises facility
+D. Availability Zones allow developers to build applications
+that deliver ultra-low latencies to 5G devices and end-users
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 20. Which AWS service should you use if you need
+to set up and operate a highly scalable MySQL database?
+A. Amazon DynamoDB
+B. Amazon Aurora
+C. Amazon Redshift
+D. Amazon DocumentDB
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 21. Which of the following statements are true when
+a company uses AWS and decouple from their on-premises
+data centers? (Choose all that apply.)
+A. Eliminate many of the costs related to building and
+maintaining a data center
+B. Increase the need to manage infrastructure
+C. Spend less time conducting security reviews on
+infrastructure
+74
+D. Use automation to reduce or eliminate IT
+management activities
+E. Design and develop new IT projects slower
+Answer: ACD
+EXPLANATION:
+
+NEW QUESTION 22. In which of the following cloud best practices you
+end up thinking about recovery strategies during design time,
+which helps in designing an overall system better?
+A. Implement elasticity
+B. Decouple your components
+C. Design for failure and nothing will fail
+D. Think parallel
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 23. Which of the following usage patterns are the
+most common for Amazon S3? (Choose all that apply.)
+A. Amazon S3 is used to store and distribute static web
+content and media
+B. Amazon S3 can be used as a database or search engine
+by itself
+C. Amazon S3 is used to host entire static websites
+D. Amazon S3 can be used for data that must be updated
+very frequently
+E. Amazon S3 is often used as a highly durable,
+scalable, and secure solution for backup and archiving of
+critical data
+Answer: ACE
+EXPLANATION:
+
+NEW QUESTION 24. Scaling just when you are expecting a big surge
+of traffic requests due to a scheduled business event is an
+implementation of which AWS cloud best practices?
+A. Design for failure
+B. Decouple your components
+C. Think parallel
+D. Implement elasticity
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 25. Amazon S3 is ideal for dynamic content websites
+that depend on database interaction or server-side scripting.
+A. TRUE
+B. FALSE
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 26. Your company needs to submit the security and
+compliance documents such as AWS ISO certifications and
+Payment Card Industry (PCI). Which of the following AWS
+service provides on-demand downloads of AWS security and
+compliance documents?
+A. AWS Secrets Manager
+B. AWS WAF
+C. AWS Artifact
+D. AWS Identity and Access Management
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 27. Which of the following cloud computing model
+removes the need for organizations to manage the underlying
+infrastructure and allows you to focus on the deployment and
+management of your applications?
+A. UCaaS
+B. IaaS
+C. SaaS
+D. PaaS
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 28. Which of the following AWS services is an
+example of Infrastructure as a Service in AWS?
+A. AWS Elastic Beanstalk
+B. Heroku
+C. EC2
+D. DigitalOcean
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 29. The ________________ includes the ability to run
+systems to deliver business value at the lowest price point.
+A. Performance Efficiency pillar
+B. Cost Optimization pillar
+C. Operational Excellence pillar
+D. Security pillar
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 30. Which AWS service provides resizable
+computing capacity that you can use to build and host your
+software systems?
+A. Amazon EC2
+B. AWS Lambda
+90
+C. Amazon S3
+D. Amazon Redshift
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 31. Go global in minutes is one of the six advantages
+of Cloud Computing that provides customers with what
+benefit?
+A. Focus on projects that differentiate your business, not
+the infrastructure
+B. You can achieve a lower variable cost than you can get
+on your own
+C. Easily deploy your application in multiple regions
+around the world with just a few clicks
+D. Eliminate guessing on your infrastructure capacity needs
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 32. If a subnet doesn’t have a route to the internet
+gateway but has its traffic routed to a virtual private gateway for
+a Site-to-Site VPN connection, the subnet is known as a
+______________ subnet.
+A. Public
+B. Private
+C. VPN-only
+D. Secure
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 33. Which of the following pillars of the AWS Well-
+Architected Framework includes the ability to run workloads
+effectively, gain insight into their operations, and to
+continuously improve supporting processes and procedures to
+deliver business value?
+A. Operational Excellence
+B. Security
+C. Reliability
+D. Performance Efficiency
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 34. You are developing an APP that needs to store
+JSON documents in a fully managed, and durable database
+with built-in security. Which of the following AWS service will
+you implement in order to meet the requirement?
+A. Amazon VPC
+B. Amazon CloudFront
+C. Amazon EC2
+D. Amazon DynamoDB
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 35. Which of the following do you need to implement
+for as many Amazon EC2 workloads as possible so that you
+horizontally scale up and scale down when needed and
+automatically reduce your spending when you don’t need that
+capacity anymore?
+A. Auto Workload
+B. Auto Scaling
+C. Auto Capacity
+D. Auto Spending
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 36. By launching your instances in separate
+Availability Zones, you can protect your applications from the
+failure of a single location.
+A. TRUE
+B. FALSE
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 37. Which of the following statements are true when
+a company uses AWS and decouple from their on-premises
+data centers? (Choose all that apply.)
+A. AWS is responsible for patching and fixing flaws
+within the infrastructure
+B. The customer is responsible for configuring their
+own guest operating systems
+C. The customer is responsible for protecting the
+infrastructure that runs all of the services offered in the AWS
+Cloud
+D. AWS is responsible for maintaining the configuration
+of its infrastructure devices
+E. AWS is responsible for managing their data including
+encryption options
+Answer: ABD
+EXPLANATION:
+
+NEW QUESTION 38. The use of multi-threading in your Amazon S3
+for faster data retrieval is an example of which AWS cloud best
+practices?
+A. Implement elasticity
+B. Think parallel
+C. Decouple your components
+D. Design for failure
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 39. Which of the following statements are true when
+a company uses AWS and decouple from their on-premises
+data centers? (Choose all that apply.)
+A. Define Auto-scaling groups for different clusters
+using the Amazon Auto-scaling feature in Amazon EC2
+B. Use smart open-source configuration management
+106
+tools like Chef, Puppet, CFEngine or Genome
+C. Use Amazon SQS to isolate components
+D. Monitor your system metrics (CPU, Memory, Disk I/O,
+Network I/O) using Amazon CloudWatch and take
+appropriate actions
+E. Use the Elastic Load Balancing service and spread your
+load across multiple web app servers dynamically
+Answer: ABD
+EXPLANATION:
+
+NEW QUESTION 40. Which of the following design principles
+demonstrate the Operational Excellence pillar of AWS Well-
+Architected Framework? (Choose all that apply.)
+A. Implement a strong identity foundation
+B. Make frequent, small, reversible changes
+C. Scale horizontally to increase aggregate workload
+availability
+D. Measure overall efficiency
+E. Learn from all operational failures
+Answer: BE
+EXPLANATION:
+
+NEW QUESTION 41. Your company needs to deny any permission to
+any user to perform any Amazon S3 operations on objects in an
+S3 bucket unless the request originates from the range of
+83.122.40.0/24 IP addresses. Which of the following should
+you use to meet the requirement?
+A. Network Access Control List
+B. Bucket Policy
+C. AWS Resource Groups
+D. AWS Firewall Manager
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 42. Which of the following options below is a control
+which a customer fully inherits from AWS in accordance with
+the AWS shared responsibility model?
+A. Patch Management
+B. Physical and Environmental controls
+C. Configuration Management
+D. Zone Security
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 43. You have been tasked to implement a solution to
+attach policies to multiple users at one time. Which AWS
+service will help you meet the requirement?
+A. AWS Identity and Access Management
+B. AWS Resource Access Manager
+C. AWS Resource Groups
+D. AWS Secrets Manager
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 44. Which of the following AWS services is a fully
+managed data security service that uses machine learning and
+pattern matching to discover, classify, and help you protect
+your sensitive data in Amazon S3?
+A. Amazon Inspector
+B. Amazon GuardDuty
+C. Amazon Macie
+D. Amazon Detective
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 45. Which of the following are considered prohibited
+activities when you conduct security assessments and
+penetration testing against AWS infrastructure (Choose all that
+apply.)
+A. DNS zone walking via Amazon Route 53 Hosted
+Zones
+B. Conduct pen testing on Amazon CloudFront
+C. Port flooding
+D. Protocol flooding
+E. Conduct pen testing on Amazon EC2 instances
+Answer: ACD
+EXPLANATION:
+
+NEW QUESTION 46. Which of the following actions you can follow to
+improve the security of your Identity and Access Management
+(IAM) users? (Select all that apply.)
+A. Configure a strong password policy for your users
+B. Disable MFA
+C. Share access keys
+D. Keep unnecessary credentials
+E. Monitor activity in your AWS account
+F. Create individual IAM users
+Answer: AEF
+EXPLANATION:
+
+NEW QUESTION 47. Which of the following policies are available for
+granting permission to your Amazon S3 resources and use
+JSON-based access policy language? (Choose all that apply.)
+A. Session policies
+B. Bucket policies
+C. Service policies
+D. User policies
+E. Service control policies
+Answer: BD
+EXPLANATION:
+
+NEW QUESTION 48. In compliance with PCI DSS, an EU-based
+company is required to provide compliance documents, such
+137
+as Payment Card Industry (PCI). Where are these AWS
+compliance documents located?
+A. AWS Certificate Manager
+B. AWS Security Hub
+C. AWS Secrets Manager
+D. AWS Artifact
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 49. Which of the following should you use if you
+need to provide temporary AWS credentials for users who have
+been authenticated via their social media logins as well as for
+guest users who do not require any authentication?
+A. Amazon Cognito identity pool
+B. Amazon Detective
+C. Amazon GuardDuty
+D. Amazon Inspector
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 50. Which of the following tasks fall under the sole
+responsibility of customer based on the shared responsibility
+model?
+A. Patch Management
+B. Service and Communications Protection
+C. Configuration Management
+D. Physical and Environmental controls
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 51. Which of the following AWS services support
+Access Control Lists (ACLs)? (Choose all that apply.)
+A. Amazon S3
+B. AWS WAF
+C. Amazon Redshift
+D. Amazon VPC
+E. Amazon Elastic Container
+Answer: ABD
+EXPLANATION:
+
+NEW QUESTION 52. Which of the following are valid important
+characteristics of an IAM Group? (Choose all that apply.)
+A. A group can contain many users
+B. A user can't belong to multiple groups
+C. Groups can't be nested
+D. There's a default group that automatically includes all
+users in the AWS account
+E. The number and size of IAM resources in an AWS
+account are limited
+Answer: ACE
+EXPLANATION:
+
+NEW QUESTION 53. Assuming you are in the Identity and Access
+Management (IAM) dashboard of your AWS Management
+Console, which of the following services below can you
+manage? (Select all that apply)
+A. Groups
+B. Instances
+C. Identity providers
+D. Policies
+E. Dedicated hosts
+Answer: ACD
+EXPLANATION:
+
+NEW QUESTION 54. You have been tasked to increase the security of
+your VPC to control traffic in and out of your company’s
+subnets. Which of the following services will you use to
+complete the task?
+A. Network ACL
+B. AWS Shield
+C. AWS WAF
+D. AWS Resource Group
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 55. What you can use to delegate access to users,
+applications, or services that don’t normally have access to
+your AWS resources?
+A. Policies
+B. Access Control List
+C. Roles
+D. Groups
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 56. AWS customers are welcome to carry out
+security assessments or penetration tests against AWS
+infrastructure without prior approval for 8 services. Which of the
+following services are included? (Choose all that apply.)
+A. Elastic Load Balancers
+B. Amazon Route 53
+C. Amazon CloudFront
+D. Amazon API Gateways
+E. Amazon Redshift
+Answer: ACD
+EXPLANATION:
+
+NEW QUESTION 57. Which of the following AWS service is a security
+management service which allows you to centrally configure
+and manage firewall rules across your accounts and
+applications in AWS Organization?
+A. AWS Secrets Manager
+B. AWS Firewall Manager
+C. AWS Shield
+D. AWS WAF
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 58. Recently your company migrated to AWS and
+now you are responsible to implement a solution to identify
+unexpected and potentially unauthorized or malicious activity in
+your AWS environment. Which of the following AWS services
+will you implement to meet the requirement?
+A. Amazon GuardDuty
+B. Amazon Inspector
+C. AWS Shield
+D. AWS WAF
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 59. Which of the following are some common things
+you can do with the policy simulator? (Choose all that apply.)
+A. Test policies that are attached to AWS resources, such
+as Amazon Inspector
+B. Test policies that are attached to IAM users, groups,
+or roles in your AWS account
+C. You can only simulate multiple permissions boundaries
+at a time
+D. Test new policies that are not yet attached to a user,
+group, or role by typing or copying them into the simulator
+E. Identify which specific statement in a policy results
+in allowing or denying access to a particular resource or
+action
+Answer: BDE
+EXPLANATION:
+
+NEW QUESTION 60. Which of the following guidelines is not
+considered as a best practice for Amazon S3?
+A. Ensure that your Amazon S3 buckets use the correct
+policies and are publicly accessible
+B. Implement least privilege access
+C. Use IAM roles for applications and AWS services that
+require Amazon S3 access
+D. Enable multi-factor authentication (MFA) Delete
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 61. The instances that you launch into an Amazon
+VPC can’t communicate with your own (remote) network.
+Which of the following services do you need to create and
+configure in order to enable access to your remote network
+from your VPC?
+A. AWS Direct Connect
+B. Amazon API Gateway
+C. AWS Global Accelerator
+D. AWS Site-to-Site VPN
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 62. Which state does the instance enter when you
+launch it for the first time?
+A. running
+B. stopping
+C. terminated
+D. pending
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 63. Resource _____________ make it easier to manage
+and automate tasks on large numbers of resources at one time.
+A. Handler
+B. Groups
+C. Management
+D. Automation
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 64. You have been tasked to implement a solution to
+store, and access your log files from Amazon Elastic Compute
+Cloud (Amazon EC2) instances and Route 53 and get access to
+them as a single and consistent flow of events. Which AWS
+service will you use to meet the requirement?
+A. AWS CloudFormation
+B. Amazon CloudWatch Logs
+C. AWS CloudTrail
+D. Amazon CloudFront
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 65. You have been tasked to create a highly available
+architecture for your Application Load Balancer, as costeffective
+as possible. What’s the minimum number of
+Availability Zones required to set up to complete the task?
+A. Four
+B. Three
+C. Five
+D. Two
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 66. Which statements are true regarding how to
+configure CloudFront to deliver your content? (Choose all that
+apply.)
+A. You upload your files to your origin servers
+B. You assign a domain name to your new distribution that
+you can see in the CloudFront console
+C. CloudFront sends your distribution's configuration and
+193
+your content to all of its edge locations
+D. You create a CloudFront distribution, which tells
+CloudFront which origin servers to get your files from when
+users request the files
+E. You specify origin servers, like an Amazon S3 bucket,
+from which CloudFront gets your files which will then be
+distributed
+Answer: ADE
+EXPLANATION:
+
+NEW QUESTION 67. Which of the following is not a benefit of using an
+Application Load Balancer instead of a Classic Load Balancer?
+A. Support for returning a custom HTTP response
+B. Enables you to route requests to multiple domains
+using multiple load balancers
+C. You can register each instance or IP address with the
+same target group using multiple ports
+D. Support for path-based routing
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 68. Which of the following is true regarding Elastic
+Load Balancing?
+A. Elastic Load Balancing enables you to launch Amazon
+Web Services (AWS) resources into a virtual network that
+you've defined
+B. Elastic Load Balancing speeds up the distribution of your
+static and dynamic web content
+C. Elastic Load Balancing automatically distributes
+incoming application traffic across multiple targets, such
+as Amazon EC2
+D. Elastic Load Balancing is a highly available and scalable
+Domain Name System (DNS) web service
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 69. Which of the following cases is the most
+common use for Amazon S3?
+A. Use as the primary storage for a database or file system
+B. Use for any applications that require access to raw
+block-level storage
+C. Storage and distribution of static web content and
+media
+D. Ideal for temporary storage of information that is
+continually changing
+Answer: C
+EXPLANATION:
+
+NEW QUESTION 70. Amazon CloudFront is a highly-secure CDN that
+provides both network and application-level protection.
+A. TRUE
+B. FALSE
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 71. You are working on a video sharing web app that
+recently encounters a huge amount of traffic from users all over
+the world. As a result, the application faced availability and slow
+performance issues. Which of the following service will you
+implement to fix these issues?
+A. AWS Global Accelerator
+B. Amazon Virtual Private Cloud
+C. Amazon API Gateway
+D. Amazon Route 53
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 72. Which of the following storage types is a
+recommended storage option when you run a database on an
+instance?
+A. Amazon EBS
+B. Amazon EFS file system
+C. Amazon EC2 instance store
+D. Amazon S3
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 73. Given the following characteristics which of
+those describes the AWS Lambda? (Choose all that apply.)
+A. Speed up the distribution of your static and dynamic
+web content
+B. Run code without provisioning or managing servers
+C. Build data processing triggers for AWS services like
+Amazon S3
+D. Store and retrieve any amount of data at any time
+E. Distribute your incoming application traffic across
+multiple targets
+Answer: BD
+EXPLANATION:
+
+NEW QUESTION 74. Which of the following is true regarding
+CloudFront?
+A. Amazon CloudFront speeds up the distribution of
+your static and dynamic web content
+B. Amazon CloudFront automatically distributes incoming
+application traffic across multiple targets, such as Amazon EC2
+C. Amazon CloudFront enables you to launch Amazon Web
+Services (AWS) resources into a virtual network that you've
+defined
+D. Amazon CloudFront is a highly available and scalable
+Domain Name System (DNS) web service
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 75. Which of the following services takes care of
+provisioning and configuring the resources (like Amazon EC2
+instances or Amazon RDS DB instances) for you, so you can
+spend less time managing those resources?
+A. AWS CloudFormation
+B. AWS CloudTrail
+C. Amazon CloudWatch
+D. Amazon EC2 Auto Scaling
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 76. Which of the following cloud computing
+deployment models connects infrastructure and applications
+between cloud-based resources and existing resources that are
+not located in the cloud?
+A. Cloud
+B. Hybrid
+C. On-premises
+D. Mixed
+Answer: B
+EXPLANATION:
+
+NEW QUESTION 77. Which of the following services makes it easy to
+move massive volumes of data to the cloud, including video
+libraries, image repositories, or even a complete data center
+migration with a secure, fast, and cost-effective way?
+A. AWS Snow Family
+B. AWS Transfer Family
+C. AWS DataSync
+D. AWS Snowmobile
+Answer: D
+EXPLANATION:
+
+NEW QUESTION 78. What do you have to ensure before creating an
+application load balancer?
+A. Ensure that you have a virtual private cloud (VPC)
+with at least one public subnet in each of the Availability
+Zones used by your targets
+B. Ensure that you have a virtual private cloud (VPC) with at
+least two public subnets in each of the Availability Zones used
+by your targets
+C. Ensure that you have a virtual private cloud (VPC) with at
+least three public subnets in each of the Availability Zones used
+by your targets
+D. Ensure that you have a virtual private cloud (VPC) with at
+least four public subnets in each of the Availability Zones used
+by your targets
+Answer: A
+EXPLANATION:
+
+NEW QUESTION 79. Amazon S3 is optimal for storing numerous
+classes of information that are relatively static and benefit from
+its durability, availability, and elasticity features. However, in a
+number of situations, Amazon S3 is not the optimal solution.
+Which of the following options is considered an anti-pattern for
+Amazon S3? (Choose all that apply.)
+A. Dynamic website hosting
+B. Static website hosting
+C. Rapidly changing data
+D. Software delivery
+E. Media hosting
+Answer: AC
+EXPLANATION:
+
+NEW QUESTION 80. Which of the following AWS services will you use
+in order to scale your relational database in the cloud and
+automate time-consuming administration tasks such as
+hardware provisioning patching and backups?
+A. Amazon Redshift
+B. Amazon RDS
+C. Amazon ElastiCache
+D. Amazon DynamoDB
+Answer: B
+EXPLANATION:
+
